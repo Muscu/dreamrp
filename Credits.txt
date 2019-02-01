@@ -1,0 +1,93 @@
+LSPD Pack by Captain14
+Vehicle skins by TrentMU
+
+2011 CVPI:
+-CVPI Model from Driver SF, converted to IV by F5544, modified by KevinDV, CJ24, and OfficerUnderwood
+-CVPI Wheels from NFS:MW, converted yb trewq34, textures by GreenAid
+-CVPI Interior parts by Ubisoft, modified by OfficerUnderwood
+-CVPI door handles by Lundy
+-CVPI Hubcaps by Bueno
+
+2013 Tahoe:
+-2007 Tahoe by unknown author, modified into 2013 Tahoe and converted to GTA V by OfficerUnderwood 
+-Tahoe parts by Orex429/Shady
+-Tahoe interior parts by Ubisoft, edited by OfficerUnderwood
+-Tahoe wheels by GTAxBOSS
+-Tahoe Setina Rambar by NickieB
+-Setina PB400 by Kygo
+
+2013 Explorer:
+-2012 Ford Explorer model from EA GAMES/NFS
+-Converted to a 2013 Ford Police Interceptor by JasonCT203
+-Ford Police Interceptor Wheel modeled by VooDoo, Centercap by Jasonct203
+-Converted to GTA V by JasonCT203
+-Setina Pushbar by Vertex3D
+
+2016 Explorer:
+-2016 Ford Explorer Purchased by Rich Sobilo and NYSP Clan
+-Crunched by VooDoo 
+-Converted to GTA IV by JasonCT203. 
+-3D Grill made by VooDoo
+-Chassis from FPIU by Policefanatic
+-Ported to V by BlackJesus
+-Setina Pushbar by Vertex3D
+
+2013 Taurus:
+-Model is Ford Taurus SHO 2010 from Forza, converted to IV by NIK161RUS, extensively edited into 2014 PI by IronicRainbow
+-2013 style center console by IronicRainbow
+-Front bumper by Ridgerunner
+-Headlight and indicators by the Squir Team (TurboSquid)
+-Outer taillights by IronicRainbow
+-Inner taillights by Georgiemoon (Jorge Sun)
+-Rims by Bxbugs123, center cap by PoliceWag
+-Converted to V by Captain14 & Thero
+-Retemplated by Thero
+-Polyfilling and configuring for V by Captain14
+-Inner door panels taken from F5544's dev Taurus, adapted to fit
+
+2015 Charger:
+-Charger model from Forza Horizon 2 ripped by DMN
+-Converted to GTA V by KamelKFB
+-Modification to PPV spec, bug fixes, improvements, LODs, and polygon optimization by Captain14
+-Vehicle templated and mapped by Him1250
+-Poly filling by Captain14 & Him1250, door panel filling and dash piece from CODEX12's 2013 Charger, adapted to fit 2015 model
+-Wheels by GerryStudio, converted to V and mapped by MattJeter
+-Brake discs from Charger Hubcaps by Fartknockr, converted to IV by Bxbugs123, converted to V by Fartknockr
+
+2016 Impala:
+-Original model 2006 GMC Chevrolet Impala; Riped by DMN
+-Converted to into a '16 Chevrolet Impala  by 0taku
+-Converted to GTA V by 0taku
+-Template by OfficerUnderwood
+-Mapped by 0taku
+-Assorted parts and edits by Otaku, Rockstar game
+-PPV rim by 0taku.
+-Texture edits by 0taku.
+-Dail's and [COL] by Rockstar games
+-Setina Pushbar by Vertex3D, edited for Impala
+
+Interior equipment:
+-Havis K9 Cage by Vertex3D
+-K9 Window Bars by tomcat8492
+-D&R Electronics Partition by tomcat8492
+-ProGard Partition by BFRS-EMT
+-Console by 0taku
+-Panasonic Toughbook CF-31 by RidgeRunner Designs
+-Panasonic Arbitrator by johnclark1102
+-Stalker Radar by jasonct203
+
+Misc equipment:
+-Whelen PAR46 Spotlight by EVI
+-Unity Spotlight by Cyrax, converted and edited by Black Jesus
+-Antennas by PriMan
+
+Lighting equipment:
+-Federal Signal Integrity by RoegonTV
+-Whelen Liberty II by DannyBoy1909, converted to IV and edited by IronicRainbow
+-Whelen Inner Edge XLP by OfficerFive0
+-Whelen TIR3 by OfficerFive0
+-Whelen Dominator by tomcat8492
+-Whelen Avenger by TraumaPak
+-Whelen Talon by TraumaPak
+-Whelen Ion by LCCop
+-SoundOff Intersector by Mustu, textures by Deco/Napoleon/Tim98

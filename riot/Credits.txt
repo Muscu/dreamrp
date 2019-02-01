@@ -1,0 +1,24 @@
+		LAPD Lenco Bearcat
+
+
+
+DEV Lenco Bearcat
+CREDITS
+   Rockstar - Riot van interior and textures
+   EA - Swat Van exterior
+   Cosmo - Convertion,  extensive modification, uv mapping, etc
+   Yard1 - Vehiclelayouts.meta (Huge thanks)
+   Sgt. Kanyo - Handling line from GTA IV Bearcat
+   c13 - Informing me about Yard1's riot van seating
+
+
+700 series led,hide away strobe and impaxx scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+
+"NSA" fictional lightbar by EVI.
+modified into a Fedsig arjent.
+new modules, lamps and misc parts scratch modeled by OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+

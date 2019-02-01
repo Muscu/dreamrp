@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--LSPD pack by Captain14, some assembly.xml code taken from Realism Dispatch Enhanced-->
+
+<package version="2.0" id="{C5AD54F2-5B06-44C5-A9B5-A4D30DDA7D58}" target="Five">
+	<metadata>
+		<name>LSPD Pack - ELS Style Lighting</name>
+		<version>
+			<major>2</major>
+			<minor>0</minor>
+			<tag>LSPD Vehicle Pack</tag>
+		</version>
+		<author>
+			<displayName>Captain14</displayName>
+			<actionLink>http://www.lcpdfr.com/profile/268979-captain14/</actionLink>
+		</author>
+		<description><![CDATA[This will install Captain14's LSPD Pack. The following vehicles will be installed:
+		
+		-2016 Chevrolet Impala Limited (police)
+		-2015 Dodge Charger PPV (police2)
+		-2013 Ford Police Interceptor Utility (police3)
+		-2013 Ford Police Interceptor Sedan (police4)
+		-2016 Ford Police Interceptor Utility (police5)
+		-2013 Chevrolet Tahoe PPV K-9 Unit (police6)
+		-2011 Ford Crown Victoria Police Interceptor (police7)
+		
+		All vehicles feature lighting products from Federal Signal/Whelen with ELS Inspired lighting patterns.
+		
+		Vehicle Extras:
+		-Passenger side spotlight
+		-Panasonic Arbitrator Dashcam
+		-Prisoner Partition
+		-Stalker Radar
+		-Setina rambar (with Whelen Ions)
+		
+		K9 Unit Tahoe is fully outfitted and equipped with cage. Vehicle skins are all in 4k, created by TrentMU.
+		
+		
+		
+		Note: All vehicles install into a standalone DLC pack for easy removal. Your dlclist.xml will be modified by the installer to load the DLC pack containing these vehicles. The installer will also perform minor modifications to your vehicles.meta to enable the loading of the custom vehicles.meta inside the pack. The pack also includes an uninstaller file for easy, clean removal of these mods. Installing this pack will NOT overwrite any existing vehicle mods.]]></description>
+		
+		<largeDescription displayName="UPDATE LOG 2.0.0"><![CDATA[-2013 Ford Police Interceptor Sedan (Taurus) added to pack!
+		-2011 CVPI dirt mapping fixed
+		-Misc bug fixes
+		
+		1.1.0 Updates:
+		-CVPI switched from hubcaps to steelies (matches rest of fleet)
+		-Remapped rear strobes. Should look more blue and less Cyan on certain graphics mods
+		-Dimmed CVPI reverse light strobes
+		
+		1.0.2 Updates:
+		-Fixed K9 Tahoe bug (rear doors can now open for K9 partners)
+		
+		1.0.1 Updates:
+		-Reduced intensity and size of white corner strobe lights
+		-Fixed CVPI backseat disco party bug]]></largeDescription>
+		
+		<licence><![CDATA[These files are not to be modified, redistributed, ripped, or otherwise exploited in any way, shape, or form. These files are exclusive to LCPDFR.com and are not to be reuploaded elsewhere. When uploading textures, do not reupload the vehicle models. Upload the texture only and include a link to the vehicle download.]]></licence>
+	</metadata>
+	<colors>
+		<headerBackground useBlackTextColor="False">$FF141414</headerBackground>
+		<iconBackground>$FF141414</iconBackground>
+	</colors>
+	
+	<content>
+		<archive path="update/x64/dlcpacks/lspdpack/dlc.rpf" createIfNotExist="True" type="RPF7">
+			<add source="content.xml">content.xml</add>
+			<add source="setup2.xml">setup2.xml</add>
+			<add source="carcols.meta">common/data/carcols.meta</add>
+			<add source="carvariations.meta">common/data/carvariations.meta</add>
+			<add source="vehicles.meta">common/data/levels/gta5/vehicles.meta</add>
+			<add source="dlctext.meta">common/data/dlctext.meta</add>
+			<archive path="x64/levels/gta5/vehicles/lspdpack.rpf" createIfNotExist="True" type="RPF7">
+				<add source="police3.yft">police3.yft</add>
+				<add source="police3_hi.yft">police3_hi.yft</add>
+				<add source="police3.ytd">police3.ytd</add>
+				<add source="police.yft">police.yft</add>
+				<add source="police_hi.yft">police_hi.yft</add>
+				<add source="police2.ytd">police2.ytd</add>
+				<add source="police2.yft">police2.yft</add>
+				<add source="police2_hi.yft">police2_hi.yft</add>
+				<add source="police.ytd">police.ytd</add>
+				<add source="police4.yft">police4.yft</add>
+				<add source="police4_hi.yft">police4_hi.yft</add>
+				<add source="police4.ytd">police4.ytd</add>
+				<add source="police5.yft">police5.yft</add>
+				<add source="police5_hi.yft">police5_hi.yft</add>
+				<add source="police5.ytd">police5.ytd</add>
+				<add source="police6.yft">police6.yft</add>
+				<add source="police6_hi.yft">police6_hi.yft</add>
+				<add source="police6.ytd">police6.ytd</add>
+				<add source="police7.yft">police7.yft</add>
+				<add source="police7_hi.yft">police7_hi.yft</add>
+				<add source="police7.ytd">police7.ytd</add>
+			</archive>
+        </archive>
+		
+		<archive path="update/update.rpf" createIfNotExist="True" type="RPF7">
+            <text path="common/data/dlclist.xml" createIfNotExist="False">
+				<add>&lt;!--WORKAROUND, YOU CAN DELETE THIS LINE--&gt;</add>
+				<delete condition="Mask">*workaround*</delete>
+				<delete condition="Mask">*lspdpack*</delete>
+				<insert where="Before" line="*/paths*" condition="Mask">		&lt;Item&gt;dlcpacks:\lspdpack\&lt;/Item&gt;</insert>
+			</text>
+			<text path="common/data/levels/gta5/vehicles.meta" createIfNotExist="False">
+				<add>&lt;!--WORKAROUND, YOU CAN DELETE THIS LINE--&gt;</add>
+				<delete condition="Mask">*workaround*</delete>
+				<replace condition="Mask" line="*&lt;modelName&gt;POLICE&lt;/modelName&gt;*">      &lt;modelName&gt;POLICE_OLD&lt;/modelName&gt;</replace>
+				<replace condition="Mask" line="*&lt;txdName&gt;POLICE&lt;/txdName&gt;*">      &lt;txdName&gt;POLICE_OLD&lt;/txdName&gt;</replace>
+				<replace condition="Mask" line="*&lt;modelName&gt;POLICE3&lt;/modelName&gt;*">      &lt;modelName&gt;POLICE3_OLD&lt;/modelName&gt;</replace>
+				<replace condition="Mask" line="*&lt;txdName&gt;POLICE3&lt;/txdName&gt;*">      &lt;txdName&gt;POLICE3_OLD&lt;/txdName&gt;</replace>
+				<replace condition="Mask" line="*&lt;modelName&gt;POLICE4&lt;/modelName&gt;*">      &lt;modelName&gt;POLICE4_OLD&lt;/modelName&gt;</replace>
+				<replace condition="Mask" line="*&lt;txdName&gt;POLICE4&lt;/txdName&gt;*">      &lt;txdName&gt;POLICE4_OLD&lt;/txdName&gt;</replace>
+			</text>
+        </archive>
+	</content>
+</package>

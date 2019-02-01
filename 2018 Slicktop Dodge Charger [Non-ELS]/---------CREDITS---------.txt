@@ -1,0 +1,76 @@
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+                                         CREDITS FOR DEV PARTS
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+Vehicle Model uploaded by Peralta
+
+- Original vehicle model is 2015 Dodge Charger from Forza, edited into the 2018 Dodge Charger Pursuit by Matt with parts from FH3 and Gamemodels
+
+- Seats, center mirror, shifter and dash edits modeled and done by Kane104 - commissioned by Ranger Rick
+
+- Major help from EVI for digital dial information and help to get the dials working and his patience to help me
+
+- Rear bumper diffuser modeled by Patrol 31 Normal edits by Steinberg
+
+- Big thanks to Cj24 for beta testing the model and help with spec maps and normal maps and his overall knowledge of gta materials
+
+- Interior dial textures made by NeonLazer
+
+- Interior button textures made by Slendis
+
+- Rims from Gamemodels.ru / GarryStudio Centercap edited by Matt
+
+- Dome Light modeled by Matt
+
+- EagleRSA tire textures made by EVI
+
+- A big thanks to Cj24, Kane104, EVI, Patrol 31, Steinberg , Desmond , NeOnLaZeR, Izick, Rekram, HDgamerzPC, and a big thanks to Ranger Rick who bought 3D parts so that i wouldn't give up on this project and bought me a Zmodeler license so that i can keep working on this project Thank you Rick.
+
+- Thank you to everyone who supported me and the project...
+
+Rambar uploaded by Fartknockr
+
+- GoRhino 2015 Charger Wraparound by Carper, Textures by Carper
+
+Soundoff Fascia uploaded by Trooper Goetz
+
+Generic LED Light Package uploaded by Bueno
+
+- Modeled and textured by Bueno
+
+- Extensive support from Voodoo
+
+Setina Partition uploaded by CAP'N CRUNCH
+
+- Credits to SETINA for their design 
+
+- Setina Partition Modeled, Textured by CAP'N CRUNCH. Textures by CAP'N CRUNCH. Converted to V by VooDoo
+
+Alpr uploaded by MrPotato
+
+- Converted and textured by MrPotato
+
+- Textures by bxbugs
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+                                         NOTES BY panos_zaf
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+All of the pieces were assembled by panoszaf and made into an unmarked/slicktop Charger
+FIrst of all i want to thank all of the people above who made the dev parts and uploaded them for Free unlocked. It is hard to find good dev parts so thank you to everyone who uploads dev parts for free 
+If i forgot anything/anyone in the credits please let me know and i will add you/fix it.
+
+Also i want to thank people who make tutorials on how to make vehicles in gta v such as BlackJesus and  BritishGamer88 since there arent many tutorials out there either i wouldnt be able to do anything in zmodeler 
+without those tutorials
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+I also want to thank British from blucoatnetworks for getting me into making cars and helping me getting 
+started with zmodeler
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+program used to make the vehicle was zmodeler 3
+program used to edit some of the textures was paint.net
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
